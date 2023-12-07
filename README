@@ -1,12 +1,8 @@
-pnscan - a Parallel Network Scanner
 
-Copyright (c) 2002-2020 Peter Eriksson <pen@lysator.liu.se>
-
-----------------------------------------------------------------------
 
 INTRODUCTION
 
-Pnscan is a tool that can be used to survey IPv4 TCP network
+NetSecPro is a tool that can be used to survey IPv4 TCP network
 services. IPv6 is currently not supported.
 
 For example, it can be used to survey the installed versions of
